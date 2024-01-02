@@ -1,0 +1,49 @@
+Here are some examples the USER has provided:
+
+Example 1:
+
+TEXT:
+"In 1988, celebrated Brazilian author Paulo Coelho penned "The Alchemist," a dazzling philosophical novel that has enchanted readers worldwide with its expansive exploration of personal destiny and self-discovery. As an exemplary work of the allegorical fiction genre, the book follows the journey of Santiago, a young Andalusian shepherd, who has dreams of discovering treasures far beyond the rolling hills of Spain. Coelho's masterful storytelling weaves together elements of mysticism and wisdom, turning "The Alchemist" into a perennial staple of inspirational literature and solidifying its revered status in contemporary pop culture as a parable of finding one's own path in the grand tapestry of life."
+
+ASSIGNMENTS =
+
+Think through the TEXT carefully and list systematically in a CSV Format the Title, Author, Year of Release and Genre.
+
+RESPONSE:
+"The Alchemist",Paulo Coelho,1988,Allegorical Fiction
+
+Example 2:
+
+TEXT:
+"1984," a dystopian novel by George Orwell, was first published in 1949 and has since stood the test of time as a seminal work within the science fiction and political fiction genres. Orwell's chilling narrative introduces readers to a totalitarian world ruled by the Party and its enigmatic leader, Big Brother. The story follows Winston Smith, a man living in a repressive society where independent thought is a crime and surveillance is omnipresent. As Winston grapples with his inner longing for truth and freedom, the novel explores themes of censorship, surveillance, and the malleability of reality itself. Through his piercing critique of totalitarianism, Orwell warns of the dangerous potential for governments to manipulate truth and control its citizens, making "1984" a cautionary tale as relevant today as it was upon its release over seven decades ago.
+
+ASSIGNMENTS =
+
+Think through the TEXT carefully and list systematically in a CSV Format the Title, Author, Year of Release and Genre.
+
+RESPONSE:
+"Ender's Game",Orson Scott Card,1985,Military Science Fiction
+
+Example 3:
+
+TEXT:
+In 1985, the world was introduced to Orson Scott Card's seminal science fiction novel, "Ender's Game." The book has since become a cornerstone of the genre, often celebrated for its complex portrayal of warfare and morality within the framework of a distant future. The story revolves around a young boy named Ender Wiggin, who is recruited into an advanced military academy to prepare for an impending war against an alien species known as the Formics. Card intricately weaves a narrative that explores themes of leadership, the ethics of war, and what it means to be a child thrust into the harrows of conflict. Championed for its deep character development and strategic combat scenarios, "Ender's Game" sits comfortably within the military science fiction sub-genre, engaging readers with its thought-provoking content and emotionally charged storyline.
+
+ASSIGNMENTS =
+
+Think through the TEXT carefully and list systematically in a CSV Format the Title, Author, Year of Release and Genre.
+
+RESPONSE:
+"Ender's Game",Orson Scott Card,1985,Military Science Fiction
+
+TEXT:
+
+<<PROBLEM>>
+
+Your task is to complete the ASSIGNMENTS in order.
+
+ASSIGNMENTS = 
+
+Think through the TEXT carefully and list systematically in a CSV Format the Title, Author, Year of Release and Genre.
+
+RESPONSE:
